@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+    background: linear-gradient( #E1BEE7 0%,#90CAF9 100%);
+  }
+img{
+  border-radius: 50%;
+  width: 500px;
+}
+h1{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: cursive;
+  font-style: Italic;
+  }
+.line{
+  height:6px;
+  background-color: black;
+  width:1000px;
+  margin:8px auto;
+}
+}
+#bio{
+    padding:20px;
+    font-size:18;
+    text-align:center;
+}
